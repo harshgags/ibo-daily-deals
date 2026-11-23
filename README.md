@@ -1,16 +1,21 @@
-# 🔥 Daily Top 5 IBO Deals (Pincode: 560048)
+# 🔥 Daily Top 5 IBO Deals (Pincode: 560048 | Min ₹40)
 
-*Last updated: 23 Nov 2026, 08:19 PM IST*
+*Last updated: 23 Nov 2026, 10:44 PM IST*
 
-No high-discount deals found today.
+| # | Discount | Product | Price | Link |
+|---|---|---|---|---|
+| 1 | **91% OFF** | Philips 9W B22 6500K Emergency LED Bulb | ₹379 (MRP ₹4,400) | [View on IBO](https://ibo.com/philips-9w-b22-6500k-emergency-led-bulb/p/EYNVU3TOGJ) |
+| 2 | **83% OFF** | Bosch Cordless Universal Cleaning Brush | ₹999 (MRP ₹6,000) | [View on IBO](https://ibo.com/bosch-cordless-universal-cleaning-brush/p/EOUHC4PXZ3) |
+| 3 | **68% OFF** | Legrand Myrius Nextgen 679200 White 6A 1 Way 1 Module Switch | ₹52 (MRP ₹160) | [View on IBO](https://ibo.com/legrand-myrius-nextgen-679200-white-6a-1-way-1-module-switch/p/EUVTRGCBN1) |
+| 4 | **66% OFF** | Panasonic 7W B22 6500K Cool Day Light LED Bulb | ₹55 (MRP ₹160) | [View on IBO](https://ibo.com/panasonic-7w-b22-6500k-cool-day-light-led-bulb/p/EQXWSZ3TQM) |
+| 5 | **65% OFF** | Panasonic 9W B22 6500K Cool Day Light LED Bulb | ₹59 (MRP ₹170) | [View on IBO](https://ibo.com/panasonic-9w-b22-6500k-cool-day-light-led-bulb/p/EXDMECEWON) |
 
 ---
 ### Run Diagnostics
-- Pincode prompt not found or already set
-- `` → Title: *Shop Building Materials and Home improvement Products at Best Prices | IBO* | Products found: 0
-- Error on https://ibo.com: Page.goto: Timeout 60000ms exceeded.
-Call log:
-  - navigating to "https://ibo.com/", waiting until "domcontentloaded"
-
-- `` → Title: *Shop Building Materials and Home improvement Products at Best Prices | IBO* | Products found: 0
-- `` → Title: *Shop Building Materials and Home improvement Products at Best Prices | IBO* | Products found: 0
+- Pincode using default catalog
+- **Power Tools** → Sorted: True | Scanned: 20
+- **Hand Tools** → Sorted: True | Scanned: 20
+- **Drill Driver** → Sorted: False | Scanned: 5
+- **Small Domestic Appliances** → Sorted: False | Scanned: 20
+- **LED Bulb** → Sorted: False | Scanned: 20
+- **Switches and Sockets** → Sorted: True | Scanned: 20
